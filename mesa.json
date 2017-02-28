@@ -1,0 +1,1757 @@
+{
+	"title": {
+		"media": {
+			"url": "img/2874740969_d2b0b1e90f_o.jpg",
+			"caption": "",
+			"credit": "<a href=\"https://www.flickr.com/photos/filippovancini/2874740969/\">Mesa Boogie Family</a> by <a href=\"https://www.flickr.com/photos/filippovancini/\">fvancini</a>"
+		},
+		"text": {
+			"headline": "Mesa/Boogie Model History",
+			"text": "<p>An exhastive history of every Mesa/Boogie model ever sold.</p>"
+		}
+	},
+	"eras": [
+		{
+			"start_date": {
+				"year": "1967"
+			},
+			"end_date": {
+				"year": "1969"
+			},
+			"text": {
+				"headline": "Early Years"
+			}
+		},
+		{
+			"start_date": {
+				"year": "1969"
+			},
+			"end_date": {
+				"year": "1980"
+			},
+			"text": {
+				"headline": "Toneshack Years"
+			}
+		},
+		{
+			"start_date": {
+				"year": "1980"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Petaluma Years"
+			}
+		}
+	],
+	"events": [
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1967"
+			},
+			"end_date": {
+				"year": "1969"
+			},
+			"text": {
+				"headline": "Modded Princetons",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1969"
+			},
+			"end_date": {
+				"year": "1971"
+			},
+			"text": {
+				"headline": "Early Prototypes",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1971"
+			},
+			"end_date": {
+				"year": "1978"
+			},
+			"text": {
+				"headline": "Mark I",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1978"
+			},
+			"end_date": {
+				"year": "1980",
+				"month": "08"
+			},
+			"text": {
+				"headline": "Mark II",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1980",
+				"month": "08"
+			},
+			"end_date": {
+				"year": "1983",
+				"month": "05"
+			},
+			"text": {
+				"headline": "Mark IIB",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1983",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "1984",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Mark IIC",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1984",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "1985",
+				"month": "03"
+			},
+			"text": {
+				"headline": "Mark IIC+",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1985",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "1999",
+				"month": "10"
+			},
+			"text": {
+				"headline": "Mark III",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1990",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "2008",
+				"month": "10"
+			},
+			"text": {
+				"headline": "Mark IV",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "2009"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Mark V",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "2014"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Mark 5:25",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "2015"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Mark 5:35",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1989",
+				"month": "11"
+			},
+			"end_date": {
+				"year": "2008",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Mark I Reissue",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "1982",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "1985",
+				"month": "12"
+			},
+			"text": {
+				"headline": "S.O.B.",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "2014",
+				"month": "02"
+			},
+			"end_date": {
+				"year": "2014",
+				"month": "04"
+			},
+			"text": {
+				"headline": "King Snake",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Mark Series",
+			"start_date": {
+				"year": "2016",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "JP-2C John Petrucci Signature",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1985",
+				"month": "11"
+			},
+			"end_date": {
+				"year": "1988",
+				"month": "12"
+			},
+			"text": {
+				"headline": "Studio .22",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1987",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "1988",
+				"month": "12"
+			},
+			"text": {
+				"headline": ".50 Caliber",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1988",
+				"month": "12"
+			},
+			"end_date": {
+				"year": "1993",
+				"month": "08"
+			},
+			"text": {
+				"headline": "Studio .22+",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1988",
+				"month": "12"
+			},
+			"end_date": {
+				"year": "1993",
+				"month": "10"
+			},
+			"text": {
+				"headline": ".50 Caliber+",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1993",
+				"month": "10"
+			},
+			"end_date": {
+				"year": "1999",
+				"month": "01"
+			},
+			"text": {
+				"headline": "DC-5",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1994",
+				"month": "09"
+			},
+			"end_date": {
+				"year": "1999",
+				"month": "01"
+			},
+			"text": {
+				"headline": "DC-3",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1994",
+				"month": "04"
+			},
+			"end_date": {
+				"year": "1999",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Studio Caliber (DC-2)",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1980",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "1981",
+				"month": "01"
+			},
+			"text": {
+				"headline": "*Dual Caliber DC-10",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1999",
+				"month": "07"
+			},
+			"end_date": {
+				"year": "2002",
+				"month": "11"
+			},
+			"text": {
+				"headline": "Nomad 45",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1999",
+				"month": "07"
+			},
+			"end_date": {
+				"year": "2003",
+				"month": "12"
+			},
+			"text": {
+				"headline": "Nomad 55",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "1999",
+				"month": "07"
+			},
+			"end_date": {
+				"year": "2002",
+				"month": "11"
+			},
+			"text": {
+				"headline": "Nomad 100",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "2002",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "2006",
+				"month": "12"
+			},
+			"text": {
+				"headline": "F50",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "2002",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "2005",
+				"month": "12"
+			},
+			"text": {
+				"headline": "F30",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Studio/Caliber/Nomad/F Series",
+			"start_date": {
+				"year": "2002",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "2006",
+				"month": "12"
+			},
+			"text": {
+				"headline": "F100",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1987",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "1991",
+				"month": "05"
+			},
+			"text": {
+				"headline": "Stereo 295",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1987",
+				"month": "09"
+			},
+			"end_date": {
+				"year": "1992",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Quad Preamp",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1988",
+				"month": "08"
+			},
+			"end_date": {
+				"year": "1990"
+			},
+			"text": {
+				"headline": "*Studio Preamp",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1989",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "2001",
+				"month": "11"
+			},
+			"text": {
+				"headline": "50/50",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1991",
+				"month": "06"
+			},
+			"end_date": {
+				"year": "1992",
+				"month": "04"
+			},
+			"text": {
+				"headline": "Strategy 500",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1991",
+				"month": "10"
+			},
+			"end_date": {
+				"year": "2016",
+				"month": "12"
+			},
+			"text": {
+				"headline": "TriAxis",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1992",
+				"month": "06"
+			},
+			"end_date": {
+				"year": "1997",
+				"month": "03"
+			},
+			"text": {
+				"headline": "Simul-Class 2:90",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1995",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "1998",
+				"month": "06"
+			},
+			"text": {
+				"headline": "V-Twin",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1995",
+				"month": "06"
+			},
+			"end_date": {
+				"year": "2011",
+				"month": "01"
+			},
+			"text": {
+				"headline": "20/20",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1997",
+				"month": "10"
+			},
+			"end_date": {
+				"year": "1999",
+				"month": "12"
+			},
+			"text": {
+				"headline": "Coliseum 300",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "1998",
+				"month": "07"
+			},
+			"end_date": {
+				"year": "2002",
+				"month": "02"
+			},
+			"text": {
+				"headline": "Formula Preamp",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "2010"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Stereo Simul-Class 2:Fifty Power Amp",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rack Mount Series",
+			"start_date": {
+				"year": "2002",
+				"month": "04"
+			},
+			"end_date": {
+				"year": "2017",
+				"month": "02"
+			},
+			"text": {
+				"headline": "Rectifier Recording Pre-Amp",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "1992",
+				"month": "02"
+			},
+			"end_date": {
+				"year": "2000",
+				"month": "02"
+			},
+			"text": {
+				"headline": "Dual Rectifier",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "1992",
+				"month": "02"
+			},
+			"end_date": {
+				"year": "2000",
+				"month": "02"
+			},
+			"text": {
+				"headline": "Triple Rectifier",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "1993",
+				"month": "06"
+			},
+			"end_date": {
+				"year": "2002",
+				"month": "10"
+			},
+			"text": {
+				"headline": "Trem-O-Verb",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "1994",
+				"month": "04"
+			},
+			"end_date": {
+				"year": "2006",
+				"month": "11"
+			},
+			"text": {
+				"headline": "Maverick",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "1994",
+				"month": "06"
+			},
+			"end_date": {
+				"year": "2003",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Blue Angel",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "1996",
+				"month": "06"
+			},
+			"end_date": {
+				"year": "2001",
+				"month": "07"
+			},
+			"text": {
+				"headline": "Heartbreaker",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "1998",
+				"month": "11"
+			},
+			"end_date": {
+				"year": "2001",
+				"month": "04"
+			},
+			"text": {
+				"headline": "Solo 50 Series I",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "1998",
+				"month": "12"
+			},
+			"end_date": {
+				"year": "2001",
+				"month": "05"
+			},
+			"text": {
+				"headline": "Rectoverb Series I",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2000",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2009",
+				"month": "12"
+			},
+			"text": {
+				"headline": "Dual Rectifier 3 Channel",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2000",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2009",
+				"month": "12"
+			},
+			"text": {
+				"headline": "Triple Rectifier 3 Channel",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2001",
+				"month": "04"
+			},
+			"end_date": {
+				"year": "2011",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Solo 50 Series II",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2001",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "2011",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Rectoverb Series II",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2002",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "2005",
+				"month": "12"
+			},
+			"text": {
+				"headline": "Road King v1",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2011",
+				"month": "09"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Mini Rectifier 25",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2006",
+				"month": "04"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Roadster",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2010",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Dual Rectifier, 3-Channel, Multi-Watt",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2010",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Triple Rectifier, 3-Channel, Multi-Watt",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2005",
+				"month": "12"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Road King II",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Rectifier Series",
+			"start_date": {
+				"year": "2013",
+				"month": "10"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Recto-Verb 25",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Subway/Rocket Series",
+			"start_date": {
+				"year": "1994",
+				"month": "09"
+			},
+			"end_date": {
+				"year": "2000",
+				"month": "08"
+			},
+			"text": {
+				"headline": "Subway",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Subway/Rocket Series",
+			"start_date": {
+				"year": "1996",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "1998",
+				"month": "07"
+			},
+			"text": {
+				"headline": "Subway Rocket",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Subway/Rocket Series",
+			"start_date": {
+				"year": "1998",
+				"month": "06"
+			},
+			"end_date": {
+				"year": "2000",
+				"month": "08"
+			},
+			"text": {
+				"headline": "Subway Rocket Reverb",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Subway/Rocket Series",
+			"start_date": {
+				"year": "1998",
+				"month": "11"
+			},
+			"end_date": {
+				"year": "2000",
+				"month": "08"
+			},
+			"text": {
+				"headline": "Rocket 44",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Subway/Rocket Series",
+			"start_date": {
+				"year": "1999",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2000",
+				"month": "08"
+			},
+			"text": {
+				"headline": "Rocket 440",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Lone Star Series",
+			"start_date": {
+				"year": "2003",
+				"month": "12"
+			},
+			"end_date": {
+				"year": "2007",
+				"month": "03"
+			},
+			"text": {
+				"headline": "Lone Star",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Lone Star Series",
+			"start_date": {
+				"year": "2005",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Lone Star Special",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Lone Star Series",
+			"start_date": {
+				"year": "2007",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Lone Star (Duo Class)",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Stiletto Series",
+			"start_date": {
+				"year": "2004",
+				"month": "10"
+			},
+			"end_date": {
+				"year": "2006",
+				"month": "02"
+			},
+			"text": {
+				"headline": "Stiletto Deuce v1",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Stiletto Series",
+			"start_date": {
+				"year": "2004",
+				"month": "10"
+			},
+			"end_date": {
+				"year": "2006",
+				"month": "02"
+			},
+			"text": {
+				"headline": "Stiletto Trident v1",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Stiletto Series",
+			"start_date": {
+				"year": "2006",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2012",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Stiletto Ace",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Stiletto Series",
+			"start_date": {
+				"year": "2006",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2012",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Stiletto Trident v2",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Stiletto Series",
+			"start_date": {
+				"year": "2006",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2012",
+				"month": "01"
+			},
+			"text": {
+				"headline": "Stiletto Deuce v2",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Express Series",
+			"start_date": {
+				"year": "2007",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "2012",
+				"month": "05"
+			},
+			"text": {
+				"headline": "Express 5:25",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Express Series",
+			"start_date": {
+				"year": "2007",
+				"month": "01"
+			},
+			"end_date": {
+				"year": "2012",
+				"month": "06"
+			},
+			"text": {
+				"headline": "Express 5:50",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Express Series",
+			"start_date": {
+				"year": "2011",
+				"month": "08"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Express 5:25+",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Express Series",
+			"start_date": {
+				"year": "2012",
+				"month": "08"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Express 5:50+",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Electra Dyne Series",
+			"start_date": {
+				"year": "2009",
+				"month": "03"
+			},
+			"end_date": {
+				"year": "2014",
+				"month": "03"
+			},
+			"text": {
+				"headline": "Electra Dyne",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Atlantic Series",
+			"start_date": {
+				"year": "2010",
+				"month": "05"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "TransAtlantic TA-15",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Atlantic Series",
+			"start_date": {
+				"year": "2011",
+				"month": "02"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "TransAtlantic TA-30",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Atlantic Series",
+			"start_date": {
+				"year": "2011",
+				"month": "06"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Royal Atlantic RA-100",
+				"text": "A rad amp."
+			}
+		},
+
+
+
+
+
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group":"Triple Crown Series",
+			"start_date": {
+				"year": "2016"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "TC-50",
+				"text": "A rad amp."
+			}
+		}
+
+
+
+	]
+}
