@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>MESA/Boogie Model Timeline</title>
+		<meta name="description" content="A complete history of every MESA/Boogie guitar amplifier.">
+		<meta charset="utf-8">
+		<meta name="viewport" content="initial-scale=1,width=device-width">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-touch-fullscreen" content="yes">
+		<!-- Style-->
+		<style>
+			html, body {
+				height:100%;
+				padding: 0px;
+				margin: 0px;
+			}
+		</style>
+		<!-- HTML5 shim, for IE6-8 support of HTML elements--><!--[if lt IE 9]>
+		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+		<link rel="shortcut icon" href="img/tube.png"> 
+	</head>
+	<body>
+		<div id="timeline-embed">
+			<div id="timeline"></div>
+		</div>
+		<link rel="stylesheet" href="css/timeline.css">
+		<script type="text/javascript" src="js/timeline-min.js"></script>
+		<script>
+			$(document).ready(function(){
+				var embed = document.getElementById('timeline-embed');
+				embed.style.height = getComputedStyle(document.body).height;
+				window.timeline = new TL.Timeline('timeline-embed', 'mesa.json', {
+					hash_bookmark: true,
+					timenav_height_percentage: 65});
+				window.addEventListener('resize', function() {
+				var embed = document.getElementById('timeline-embed');
+				embed.style.height = getComputedStyle(document.body).height;
+				timeline.updateDisplay();
+				})
+			});
+		</script>
+	</body>
+</html>
+
+<!-- 
+//https://www.premierguitar.com/articles/a-mesa-boogie-history-1?page=1
+//https://en.wikipedia.org/wiki/Mesa_Boogie
+//http://forum.grailtone.com/
+//http://www.mesaboogie.com/
+//http://www.voodooguitar.net/2016/10/a-joke-named-boogie-early-years-of-mesa.html
+//https://mesaboogie.zendesk.com/hc/en-us/articles/218914817-When-was-my-amp-made-
+ -->
