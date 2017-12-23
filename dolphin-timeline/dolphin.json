@@ -1,0 +1,294 @@
+{
+	"title": {
+		"media": {
+			"url": "img/2874740969_d2b0b1e90f_o.jpg",
+			"caption": "",
+			"credit": "<a href=\"https://www.flickr.com/photos/filippovancini/2874740969/\">Mesa Boogie Family</a> by <a href=\"https://www.flickr.com/photos/filippovancini/\">fvancini</a>"
+		},
+		"text": {
+			"headline": "Warwick Dolphin Pro 1 Model Timeline",
+			"text": "<p>A complete history of every MESA/Boogie guitar amplifier ever offered.<br/><br/>Contribute here: https://github.com/umig/mesa-boogie-timeline<br/><br/>Discuss here: https://forum.grailtone.com/viewtopic.php?f=3&t=73159<br/><br/>MESA and Boogie and a whole bunch of other terms are likely registered trademarks of Mesa/Boogie Ltd. This is an unoffocial history based on information found around the web. The authors of this site have no relationship with Mesa other than being fans of the company and their products.<br/><br/>Visit the official MESA/Boogie website here: http://mesaboogie.com<br/><br/>If you are looking to sell vintage Hardware &amp; Wicker MESA/Boogie gear, please contact us: team@umig.org</p>"
+		}
+	},
+	"eras": [
+		{
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1991"
+			},
+			"text": {
+				"headline": "Handmade Era"
+			}
+		},
+		{
+			"start_date": {
+				"year": "1991"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Factory Era"
+			}
+		}
+	],
+	"events": [
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Body - Wood",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1998"
+			},
+			"text": {
+				"headline": "Boire Rosewood",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Body - Wood",
+			"start_date": {
+				"year": "1998"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Ovangkol",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Body - Wood",
+			"start_date": {
+				"year": "1998"
+			},
+			"end_date": {
+				"year": "2000"
+			},
+			"text": {
+				"headline": "Birdseye Maple",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "img/1990_8_string.jpg",
+				"caption": "1990 Custom Purple Sparkle 8-String",
+				"credit": "<a href='https://ish.guitars/products/warwick-dolphin-custom-shop-8-string-led-side-markers-purple-sparkle-22'>Ish Guitars</a>"
+			},
+			"group": "Neck - Strings",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "4-String",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Fingerboard",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Wenge",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Laminations",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "2007"
+			},
+			"text": {
+				"headline": "Wenge/Zebrano",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Laminations",
+			"start_date": {
+				"year": "2007"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Ovangkol",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Volute",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1997"
+			},
+			"text": {
+				"headline": "No Volute",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Volute",
+			"start_date": {
+				"year": "1997"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Volute",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Nut",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1999"
+			},
+			"text": {
+				"headline": "Just a Nut I",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Nut",
+			"start_date": {
+				"year": "1999"
+			},
+			"end_date": {
+				"year": "2008"
+			},
+			"text": {
+				"headline": "Just a Nut II",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Nut",
+			"start_date": {
+				"year": "2008"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Just a Nut III",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Pickups/Electronics",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1991"
+			},
+			"text": {
+				"headline": "Bartolini J + MM",
+				"text": "A rad amp."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Pickups/Electronics",
+			"start_date": {
+				"year": "1991"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "MEC J + Stacked J",
+				"text": "A rad amp."
+			}
+		}
+
+
+
+	]
+}
