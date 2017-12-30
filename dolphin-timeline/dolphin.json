@@ -1,13 +1,12 @@
 {
 	"title": {
 		"media": {
-			"url": "img/2874740969_d2b0b1e90f_o.jpg",
-			"caption": "",
-			"credit": "<a href=\"https://www.flickr.com/photos/filippovancini/2874740969/\">Mesa Boogie Family</a> by <a href=\"https://www.flickr.com/photos/filippovancini/\">fvancini</a>"
+			"url": "img/dolphin_home.jpg",
+			"caption": "1990 Boire w/Satin Chrome Hardware"
 		},
 		"text": {
-			"headline": "Warwick Dolphin Pro 1 Model Timeline",
-			"text": "<p>A complete history of every MESA/Boogie guitar amplifier ever offered.<br/><br/>Contribute here: https://github.com/umig/mesa-boogie-timeline<br/><br/>Discuss here: https://forum.grailtone.com/viewtopic.php?f=3&t=73159<br/><br/>MESA and Boogie and a whole bunch of other terms are likely registered trademarks of Mesa/Boogie Ltd. This is an unoffocial history based on information found around the web. The authors of this site have no relationship with Mesa other than being fans of the company and their products.<br/><br/>Visit the official MESA/Boogie website here: http://mesaboogie.com<br/><br/>If you are looking to sell vintage Hardware &amp; Wicker MESA/Boogie gear, please contact us: team@umig.org</p>"
+			"headline": "Warwick Dolphin Pro I Model Timeline",
+			"text": "<p>A complete history of Warwick Dolphin Pro features.<br/><br/>Contribute here: https://github.com/umig/www.umig.org<br/><br/>Discuss here: https://forum.bass-arena.com/threads/the-warwick-dolphin-club.6246<br/><br/>Warwick and Dolphin Bass and a whole bunch of other terms are likely registered trademarks of Warwick. This is an unoffocial history based on information found around the web. The authors of this site have no relationship with Warwick other than being fans of the company and their products.<br/><br/>Visit the official Warwick website here: http://www.warwickbass.com<br/><br/>"
 		}
 	},
 	"eras": [
@@ -16,7 +15,7 @@
 				"year": "1988"
 			},
 			"end_date": {
-				"year": "1991"
+				"year": "1995"
 			},
 			"text": {
 				"headline": "Handmade Era"
@@ -24,7 +23,7 @@
 		},
 		{
 			"start_date": {
-				"year": "1991"
+				"year": "1995"
 			},
 			"end_date": {
 				"year": "2018"
@@ -37,8 +36,9 @@
 	"events": [
 		{
 			"media": {
-				"url": "",
-				"caption": "",
+				"url": "img/1990_boire_satin.jpg",
+				"thumbnail": "img/1990_boire_satin.jpg",
+				"caption": "1990 Boire w/Satin Chrome Hardware",
 				"credit": ""
 			},
 			"group": "Body - Wood",
@@ -50,7 +50,7 @@
 			},
 			"text": {
 				"headline": "Boire Rosewood",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -68,14 +68,15 @@
 			},
 			"text": {
 				"headline": "Ovangkol",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
 			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
+				"url": "img/birdseye.jpg",
+				"thumbnail": "img/birdseye.jpg",
+				"caption": "Pair of Birdseye Dolphins",
+				"credit": "<a href=\"http://photobucket.com/gallery/user/yaakyar/media/bWVkaWFJZDo0MzgyMDE5/?ref=\">yaakyar</a>"
 			},
 			"group": "Body - Wood",
 			"start_date": {
@@ -86,25 +87,7 @@
 			},
 			"text": {
 				"headline": "Birdseye Maple",
-				"text": "A rad amp."
-			}
-		},
-		{
-			"media": {
-				"url": "img/1990_8_string.jpg",
-				"caption": "1990 Custom Purple Sparkle 8-String",
-				"credit": "<a href='https://ish.guitars/products/warwick-dolphin-custom-shop-8-string-led-side-markers-purple-sparkle-22'>Ish Guitars</a>"
-			},
-			"group": "Neck - Strings",
-			"start_date": {
-				"year": "1988"
-			},
-			"end_date": {
-				"year": "2018"
-			},
-			"text": {
-				"headline": "4-String",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -122,7 +105,7 @@
 			},
 			"text": {
 				"headline": "Wenge",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -136,11 +119,11 @@
 				"year": "1988"
 			},
 			"end_date": {
-				"year": "2007"
+				"year": "2001"
 			},
 			"text": {
 				"headline": "Wenge/Zebrano",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -151,14 +134,32 @@
 			},
 			"group": "Neck - Laminations",
 			"start_date": {
-				"year": "2007"
+				"year": "2001"
+			},
+			"end_date": {
+				"year": "2003"
+			},
+			"text": {
+				"headline": "Wenge/Ovangkol",
+				"text": ""
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Neck - Laminations",
+			"start_date": {
+				"year": "2003"
 			},
 			"end_date": {
 				"year": "2018"
 			},
 			"text": {
-				"headline": "Ovangkol",
-				"text": "A rad amp."
+				"headline": "Ovangkol/Maple",
+				"text": ""
 			}
 		},
 		{
@@ -176,7 +177,7 @@
 			},
 			"text": {
 				"headline": "No Volute",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -194,7 +195,7 @@
 			},
 			"text": {
 				"headline": "Volute",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -212,7 +213,7 @@
 			},
 			"text": {
 				"headline": "Just a Nut I",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -230,7 +231,7 @@
 			},
 			"text": {
 				"headline": "Just a Nut II",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -248,13 +249,14 @@
 			},
 			"text": {
 				"headline": "Just a Nut III",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
 			"media": {
-				"url": "",
-				"caption": "",
+				"url": "img/bartolinis.jpg",
+				"thumbnail": "img/bartolinis.jpg",
+				"caption": "1990 Boire w/Bartolinis",
 				"credit": ""
 			},
 			"group": "Pickups/Electronics",
@@ -262,11 +264,11 @@
 				"year": "1988"
 			},
 			"end_date": {
-				"year": "1991"
+				"year": "1992"
 			},
 			"text": {
 				"headline": "Bartolini J + MM",
-				"text": "A rad amp."
+				"text": ""
 			}
 		},
 		{
@@ -277,14 +279,51 @@
 			},
 			"group": "Pickups/Electronics",
 			"start_date": {
-				"year": "1991"
+				"year": "1992"
 			},
 			"end_date": {
 				"year": "2018"
 			},
 			"text": {
-				"headline": "MEC J + Stacked J",
-				"text": "A rad amp."
+				"headline": "MEC J + Dual J",
+				"text": ""
+			}
+		},
+		{
+			"media": {
+				"url": "img/1990_boire_satin.jpg",
+				"thumbnail": "img/1990_boire_satin.jpg",
+				"caption": "1990 Boire w/Satin Chrome Hardware",
+				"credit": ""
+			},
+			"group": "Hardware",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1993"
+			},
+			"text": {
+				"headline": "Satin Chrome",
+				"text": "Also referred to as Platinum or Titanium hardware, Satin Chrome was only option originally offered, with black coming later as an option."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"group": "Hardware",
+			"start_date": {
+				"year": "1993"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Gold",
+				"text": ""
 			}
 		}
 
