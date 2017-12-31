@@ -58,7 +58,7 @@
 			"media": {
 				"url": "img/ovangkol.jpg",
 				"thumbnail": "img/ovangkol.jpg",
-				"caption": "",
+				"caption": "Ovangkol with Gold Hardware and MEC Pickups",
 				"credit": "<a target=\"_blank\" href=\"https://www.flickr.com/photos/127164196@N03/\">Dennis Meredith</a>"
 			},
 			"group": "Body - Wood",
@@ -94,9 +94,10 @@
 		},
 		{
 			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
+				"url": "img/wenge-fingerboard.jpg",
+				"thumbnail": "img/wenge-fingerboard.jpg",
+				"caption": "1991 Broadneck 5-String",
+				"credit": "<a target=\"_blank\" href=\"https://texangerbilguitars.wordpress.com/gallery/warwick-dolphin-pro-1-wide-5-string/\">Texan Gerbil Guitars</a>"
 			},
 			"group": "Neck - Fingerboard",
 			"start_date": {
@@ -126,43 +127,26 @@
 			},
 			"text": {
 				"headline": "Wenge/Zebrano",
-				"text": ""
+				"text": "7-Piece Wenge Neck with alternating Zebrano Laminations"
 			}
 		},
 		{
 			"media": {
-				"url": "",
+				"url": "img/ovangkol_neck.jpg",
+				"thumbnail": "img/ovangkol_neck.jpg",
 				"caption": "",
-				"credit": ""
+				"credit": "<a target=\"_blank\" href=\"https://reverb.com/item/492204-warwick-dolphin-5-string-bass-made-in-germany\">Austin Bass Player</a>"
 			},
 			"group": "Neck - Laminations",
 			"start_date": {
 				"year": "2001"
 			},
 			"end_date": {
-				"year": "2003"
-			},
-			"text": {
-				"headline": "Wenge/Ovangkol",
-				"text": ""
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"group": "Neck - Laminations",
-			"start_date": {
-				"year": "2003"
-			},
-			"end_date": {
 				"year": "2018"
 			},
 			"text": {
 				"headline": "Ovangkol/Maple",
-				"text": ""
+				"text": "5-Piece Ovangkol Neck with alternating Maple Veneers"
 			}
 		},
 		{
@@ -200,6 +184,139 @@
 			},
 			"text": {
 				"headline": "Volute",
+				"text": ""
+			}
+		},
+		{
+			"media": {
+				"url": "img/bartolinis.jpg",
+				"thumbnail": "img/bartolinis.jpg",
+				"caption": "1990 Boire w/Bartolinis",
+				"credit": "<a target=\"_blank\" href=\"https://www.flickr.com/photos/scottfrench/albums/72157691696012605\">Scott French</a>"
+			},
+			"group": "Pickups/Electronics",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1992"
+			},
+			"text": {
+				"headline": "Bartolini J + MM",
+				"text": ""
+			}
+		},
+		{
+			"media": {
+				"url": "img/mec.jpg",
+				"thumbnail": "img/mec.jpg",
+				"caption": "Ovangkol with MEC Pickups",
+				"credit": "<a target=\"_blank\" href=\"https://www.flickr.com/photos/127164196@N03/\">Dennis Meredith</a>"
+			},
+			"group": "Pickups/Electronics",
+			"start_date": {
+				"year": "1992"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "MEC J + Dual J",
+				"text": ""
+			}
+		},
+		{
+			"media": {
+				"url": "img/1990_boire_satin.jpg",
+				"thumbnail": "img/1990_boire_satin.jpg",
+				"caption": "1990 Boire w/Satin Chrome Hardware",
+				"credit": "<a target=\"_blank\" href=\"https://www.flickr.com/photos/scottfrench/albums/72157691696012605\">Scott French</a>"
+			},
+			"group": "Hardware - Finish",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1993"
+			},
+			"text": {
+				"headline": "Satin Chrome",
+				"text": "Also referred to as Platinum or Titanium, Satin Chrome was the only option originally offered, with black and chrome coming as options later."
+			}
+		},
+		{
+			"media": {
+				"url": "img/gold.jpg",
+				"thumbnail": "img/gold.jpg",
+				"caption": "1998 Boire with Gold Hardware",
+				"credit": "<a target=\"_blank\" href=\"http://www.bbmia.org/members/archives/bb_basses/warwickdolphin3/warwickDolphin3.shtml\">Bunny Bass</a>"
+			},
+			"group": "Hardware - Finish",
+			"start_date": {
+				"year": "1993"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Gold",
+				"text": "Around 1992 the standard hardware choice was changed to gold."
+			}
+		},
+		{
+			"media": {
+				"url": "img/1990_boire_satin.jpg",
+				"thumbnail": "img/1990_boire_satin.jpg",
+				"caption": "1990 Boire with Schaller Strap Locks",
+				"credit": "<a target=\"_blank\" href=\"https://www.flickr.com/photos/scottfrench/albums/72157691696012605\">Scott French</a>"
+			},
+			"group": "Hardware - Strap Buttons",
+			"start_date": {
+				"year": "1988"
+			},
+			"end_date": {
+				"year": "1994"
+			},
+			"text": {
+				"headline": "Schaller Style",
+				"text": ""
+			}
+		},
+		{
+			"media": {
+				"url": "img/dunlop.jpg",
+				"thumbnail": "img/dunlop.jpg",
+				"caption": "1998 Boire with Dunlop Strap Locks",
+				"credit": "<a target=\"_blank\" href=\"http://www.bbmia.org/members/archives/bb_basses/warwickdolphin3/warwickDolphin3.shtml\">Bunny Bass</a>"
+			},
+			"group": "Hardware - Strap Buttons",
+			"start_date": {
+				"year": "1994"
+			},
+			"end_date": {
+				"year": "2000"
+			},
+			"text": {
+				"headline": "Dunlop Style",
+				"text": ""
+			}
+		},
+		{
+			"media": {
+				"url": "img/strap_button.jpg",
+				"thumbnail": "img/strap_button.jpg",
+				"caption": "Ovangkol with Standard Strap Buttons",
+				"credit": "<a target=\"_blank\" href=\"https://www.instagram.com/p/BUkS7zgFwCj/\">bassplayermag</a>"
+			},
+			"group": "Hardware - Strap Buttons",
+			"start_date": {
+				"year": "2000"
+			},
+			"end_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Standard Style",
 				"text": ""
 			}
 		},
@@ -255,81 +372,6 @@
 			"text": {
 				"headline": "Just a Nut III",
 				"text": ""
-			}
-		},
-		{
-			"media": {
-				"url": "img/bartolinis.jpg",
-				"thumbnail": "img/bartolinis.jpg",
-				"caption": "1990 Boire w/Bartolinis",
-				"credit": "<a target=\"_blank\" href=\"https://www.flickr.com/photos/scottfrench/albums/72157691696012605\">Scott French</a>"
-			},
-			"group": "Pickups/Electronics",
-			"start_date": {
-				"year": "1988"
-			},
-			"end_date": {
-				"year": "1992"
-			},
-			"text": {
-				"headline": "Bartolini J + MM",
-				"text": ""
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"group": "Pickups/Electronics",
-			"start_date": {
-				"year": "1992"
-			},
-			"end_date": {
-				"year": "2018"
-			},
-			"text": {
-				"headline": "MEC J + Dual J",
-				"text": ""
-			}
-		},
-		{
-			"media": {
-				"url": "img/1990_boire_satin.jpg",
-				"thumbnail": "img/1990_boire_satin.jpg",
-				"caption": "1990 Boire w/Satin Chrome Hardware",
-				"credit": "<a target=\"_blank\" href=\"https://www.flickr.com/photos/scottfrench/albums/72157691696012605\">Scott French</a>"
-			},
-			"group": "Hardware",
-			"start_date": {
-				"year": "1988"
-			},
-			"end_date": {
-				"year": "1993"
-			},
-			"text": {
-				"headline": "Satin Chrome",
-				"text": "Also referred to as Platinum or Titanium, Satin Chrome was the only option originally offered, with black and chrome coming as options later."
-			}
-		},
-		{
-			"media": {
-				"url": "img/gold.jpg",
-				"thumbnail": "img/gold.jpg",
-				"caption": "1998 Boire with Gold Hardware",
-				"credit": "<a target=\"_blank\" href=\"http://www.bbmia.org/members/archives/bb_basses/warwickdolphin3/warwickDolphin3.shtml\">Bunny Bass</a>"
-			},
-			"group": "Hardware",
-			"start_date": {
-				"year": "1993"
-			},
-			"end_date": {
-				"year": "2018"
-			},
-			"text": {
-				"headline": "Gold",
-				"text": "Around 1992 the standard hardware choice was changed to gold."
 			}
 		}
 
